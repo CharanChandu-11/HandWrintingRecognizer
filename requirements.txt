@@ -15,7 +15,7 @@ Pillow
 # Streamlit and UI
 # streamlit>=1.28.0
 # streamlit-drawable-canvas>=0.9.0
-scikit-learn
-seaborn
-opencv-python-headless
-streamlit-drawable-canvas
+# scikit-learn
+# seaborn
+# opencv-python-headless
+# streamlit-drawable-canvas
