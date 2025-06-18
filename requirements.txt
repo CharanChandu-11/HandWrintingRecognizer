@@ -1,21 +1,5 @@
-# tensorflow>=2.10.0
-# matplotlib>=3.5.0
-# scikit-learn>=1.1.0
-# seaborn>=0.11.0
-# numpy>=1.21.0
 streamlit
-tensorflow
+tensorflow-cpu==2.10.0
 numpy
 matplotlib
 Pillow
-# Image processing
-# opencv-python-headless>=4.5.0  # 👈 Use this instead of `opencv-python` for servers like Streamlit
-# Pillow>=8.3.0
-
-# Streamlit and UI
-# streamlit>=1.28.0
-# streamlit-drawable-canvas>=0.9.0
-# scikit-learn
-# seaborn
-# opencv-python-headless
-# streamlit-drawable-canvas
