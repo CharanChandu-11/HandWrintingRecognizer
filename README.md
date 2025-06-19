@@ -87,8 +87,10 @@ Pillow>=8.3.0
 
 ## 📸 Screenshot
 
-> *(Optional: Add a screenshot from your app interface here if needed)*
-> `![App Screenshot](https://user-images.githubusercontent.com/yourusername/yourimage.png)`
+![image](https://github.com/user-attachments/assets/0aaa0071-58ab-423a-995f-fa7131a044db)
+![Screenshot 2025-06-18 224126](https://github.com/user-attachments/assets/e4082bf4-c3f3-46e4-925c-24b33b3b7e9e)
+![Screenshot 2025-06-18 224143](https://github.com/user-attachments/assets/93ce3e4a-a3fc-4636-b9f9-9a6b6f728649)
+
 
 ---
 
