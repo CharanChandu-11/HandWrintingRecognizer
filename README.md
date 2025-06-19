@@ -97,7 +97,7 @@ Pillow>=8.3.0
 ## 👨‍💻 Author
 
 **Charan Chandu**
-🔗 [LinkedIn](https://www.linkedin.com/in/charanchandu11)
+🔗 [LinkedIn](www.linkedin.com/in/p-charanchandu-74951030b)
 🌐 [GitHub](https://github.com/CharanChandu-11)
 
 ---
